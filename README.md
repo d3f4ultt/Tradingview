@@ -5,11 +5,9 @@ Restful API access for managing tradingview indicator access.
 
 <h1>Installation</h1>
 Follow below steps to install and run the API service
-<h3>Clone repo in replit</h3>
-Goto Replit Page:
-https://replit.com/@ApolloAlgo/Tradingview
+<h3>Run locally, on a VPS or on Replit</h3>
 
-<h3>Update Replit environment variables</h3>
+<h3>Update environment variables</h3>
 Only environment variables to be updated are:
 <ul>
 <li>username - Your tradingview username</li>
